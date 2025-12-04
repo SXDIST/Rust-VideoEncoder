@@ -2,8 +2,6 @@
 
 A high-performance, terminal-based video encoding tool written in Rust. It provides a modern "Cyberpunk" TUI (Text User Interface) for FFmpeg, making video compression and format conversion easy and stylish.
 
-![Screenshot Placeholder](https://via.placeholder.com/800x400?text=Rust+Video+Encoder+Pro+UI)
-
 ## ✨ Features
 
 -   **Cyberpunk TUI**: A polished, responsive terminal interface built with `ratatui`.
@@ -73,3 +71,4 @@ You can pass multiple files to queue them up:
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
